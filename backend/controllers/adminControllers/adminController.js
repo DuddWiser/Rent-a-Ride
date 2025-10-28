@@ -12,7 +12,7 @@ export const adminAuth = async (req,res,next)=> {
         next(error)
     }
 }
-
+// admin profile
 export const adminProfiile = async (req,res,next)=> {
     try{
 
