@@ -32,7 +32,7 @@ Install node modules
 
 **Server:** Express.js, Mongodb, Cloudinary, Nodemailer , Multer
 
-**Deployed frontend and backend  On AWS ec2, Nginx as Reverse Proxy ,Cloudflare as Dns resolver ,Used Pm2 for uptime**
+
 
 
 ## Project Description
