@@ -78,7 +78,7 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 
 **Database:** MongoDB with aggregation pipelines, referencing models, and optimized storage solutions.
 
-**Deployment:** Deployed on AWS EC2, utilizing Nginx as a reverse proxy, and Cloudflare for DNS management.
+
 
 ##
 
